@@ -5,5 +5,5 @@
 #### 2. change to lowercase 
 
 ### this app also shows the average reading time and text summary details like number of words and letters
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#### This project is deployed here - https://durgeshpushpakar.github.io/textUtils/
 
